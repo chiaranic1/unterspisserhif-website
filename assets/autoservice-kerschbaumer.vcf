@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Autoservice Kerschbaumer;;;
+FN:Autoservice Kerschbaumer
+ORG:Autoservice Kerschbaumer
+TEL;TYPE=WORK,VOICE:+390471797082
+TEL;TYPE=CELL,VOICE:+393386054904
+EMAIL;TYPE=WORK,INTERNET:info@autoservicekerschbaumer.it
+EMAIL;TYPE=WORK,INTERNET:car@autoservicekerschbaumer.it
+ADR;TYPE=WORK:;;S. Michele 49;San Pietro;BZ;39048;Italy
+END:VCARD
